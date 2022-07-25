@@ -1,6 +1,6 @@
 # Shiny Application for Obesity Data
 
-This Shiny application was made as a homework in the scope of [BSB 632: Advanced Bioinformatics with R](https://abl.gtu.edu.tr/ects/?dil=en&modul=ders_bilgi_formu&bolum=2201&tip=doktora&duzey=ucuncu&dno=BSB%20632) course in Bioinformatics and Systems Biology PhD programme of Gebze Technical University.  
+This Shiny application was made in the scope of the homework for [BSB 632: Advanced Bioinformatics with R](https://abl.gtu.edu.tr/ects/?dil=en&modul=ders_bilgi_formu&bolum=2201&tip=doktora&duzey=ucuncu&dno=BSB%20632) course in Bioinformatics and Systems Biology PhD programme of Gebze Technical University.  
 
 ### Dataset
 This application uses the modified dataframe of [transcriptome data from Park et al (2006) from GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE474). Modified dataframe consists of 22283 genes with Probe IDs as row names, and three columns with average expression values for each obesity category (normal, obese, morbidly obese).  
